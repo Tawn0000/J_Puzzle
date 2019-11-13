@@ -13,9 +13,9 @@ public class Mybutton extends JButton {
 	public static Dimension d = new Dimension(90,90);
 	public static int ox,oy;
 	public static int i,j,N = 16;
-    public static int dist;
-    public static Point p1;
-    public static boolean t;
+    	public static int dist;
+    	public static Point p1;
+    	public static boolean t;
    
 	public static JButton makeButton(int x,boolean y)
 	{
